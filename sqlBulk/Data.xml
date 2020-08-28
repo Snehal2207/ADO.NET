@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <Student Stid="1">
+    <Sname>Keyur</Sname>
+    <Sbranch>Mech</Sbranch>
+    <Sfees>120000</Sfees>
+  </Student>
+<Student Stid="2">
+    <Sname>snehal</Sname>
+    <Sbranch>computer</Sbranch>
+    <Sfees>120000</Sfees>
+  </Student>
+    <Student Stid="3">
+    <Sname>nisha</Sname>
+    <Sbranch>civil</Sbranch>
+    <Sfees>100000</Sfees>
+  </Student>
+    <Student Stid="4">
+    <Sname>neha</Sname>
+    <Sbranch>Mech</Sbranch>
+    <Sfees>120000</Sfees>
+  </Student>
+  <Employe Eid="1">
+    <Ename>Manisha</Ename>
+    <Ebranch>IT</Ebranch>
+    <Efees>120000</Efees>
+  </Employe>
+<Employe Eid="2">
+    <Ename>mina</Ename>
+    <Ebranch>EC</Ebranch>
+    <Efees>1000</Efees>
+  </Employe>
+<Employe Eid="3">
+    <Ename>Nimi</Ename>
+    <Ebranch>Chemical</Ebranch>
+    <Efees>120670</Efees>
+  </Employe>
+</data>

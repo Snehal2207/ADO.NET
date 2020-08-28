@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2012\Projects\ADO.NET\ADO.NET\bin\ADO.NET.dll
+c:\users\dell\documents\visual studio 2012\Projects\ADO.NET\ADO.NET\bin\ADO.NET.pdb
+c:\users\dell\documents\visual studio 2012\Projects\ADO.NET\ADO.NET\obj\Debug\ADO.NET.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2012\Projects\ADO.NET\ADO.NET\obj\Debug\ADO.NET.dll
+c:\users\dell\documents\visual studio 2012\Projects\ADO.NET\ADO.NET\obj\Debug\ADO.NET.pdb

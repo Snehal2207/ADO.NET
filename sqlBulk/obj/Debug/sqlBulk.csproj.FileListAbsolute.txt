@@ -1,0 +1,5 @@
+C:\Users\DELL\documents\visual studio 2012\Projects\ADO.NET\sqlBulk\bin\sqlBulk.dll
+C:\Users\DELL\documents\visual studio 2012\Projects\ADO.NET\sqlBulk\bin\sqlBulk.pdb
+C:\Users\DELL\documents\visual studio 2012\Projects\ADO.NET\sqlBulk\obj\Debug\sqlBulk.csprojResolveAssemblyReference.cache
+C:\Users\DELL\documents\visual studio 2012\Projects\ADO.NET\sqlBulk\obj\Debug\sqlBulk.dll
+C:\Users\DELL\documents\visual studio 2012\Projects\ADO.NET\sqlBulk\obj\Debug\sqlBulk.pdb
